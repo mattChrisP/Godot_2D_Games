@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/The Way of Thaw.ogg-8e6cc4b55e279f8160cd03cba755980e.oggstr"
+
+[deps]
+
+source_file="res://assets/arts/The Way of Thaw.ogg"
+dest_files=[ "res://.import/The Way of Thaw.ogg-8e6cc4b55e279f8160cd03cba755980e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
